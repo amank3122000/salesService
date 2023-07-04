@@ -1,0 +1,198 @@
+src/main/java/com/medistock/salesService/SalesServiceApplication.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/SalesServiceApplication.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/SalesServiceApplication.java:8:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/medistock/salesService/SalesServiceApplication.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/SalesServiceApplication.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/controller/SalesController.java:17:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/medistock/salesService/controller/SalesController.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/medistock/salesService/controller/SalesController.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:28:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/medistock/salesService/controller/SalesController.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sales' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:33:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/medistock/salesService/controller/SalesController.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sales' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'successMessage' could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:41:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/medistock/salesService/controller/SalesController.java:42:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'successMessage' could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:49:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/medistock/salesService/controller/SalesController.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sales' could be declared final
+src/main/java/com/medistock/salesService/controller/SalesController.java:63:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/medistock/salesService/controller/SalesController.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/controller/SalesController.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'salesList' could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:10:	DataClass:	DataClass: The class 'SalesDTO' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'batchCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'custCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'batchCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'custCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:76:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/dto/SalesDTO.java:92:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/entity/Sales.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:12:	DataClass:	DataClass: The class 'Sales' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/medistock/salesService/entity/Sales.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'batchCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'custCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'batchCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'custCode' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/entity/Sales.java:86:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/exception/SalesNotFoundException.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/exception/SalesNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/exception/SalesNotFoundException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/exception/SalesNotFoundException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/repository/ISalesRepository.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/repository/ISalesRepository.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/repository/ISalesRepository.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/service/ISalesService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addSales': the method is declared in an interface type
+src/main/java/com/medistock/salesService/service/ISalesService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateSales': the method is declared in an interface type
+src/main/java/com/medistock/salesService/service/ISalesService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteSales': the method is declared in an interface type
+src/main/java/com/medistock/salesService/service/ISalesService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'viewById': the method is declared in an interface type
+src/main/java/com/medistock/salesService/service/ISalesService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/medistock/salesService/service/ISalesService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'viewAllSales': the method is declared in an interface type
+src/main/java/com/medistock/salesService/service/SalesService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/medistock/salesService/service/SalesService.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/medistock/salesService/service/SalesService.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/medistock/salesService/service/SalesService.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'salesRepository'
+src/main/java/com/medistock/salesService/service/SalesService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/medistock/salesService/service/SalesService.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sales' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like s
+src/main/java/com/medistock/salesService/service/SalesService.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sales' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like s
+src/main/java/com/medistock/salesService/service/SalesService.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:47:	ShortVariable:	ShortVariable: Avoid variables with short names like s
+src/main/java/com/medistock/salesService/service/SalesService.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'salesId' is not assigned and could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sales' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:54:	ShortVariable:	ShortVariable: Avoid variables with short names like s
+src/main/java/com/medistock/salesService/service/SalesService.java:92:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sList' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:95:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/main/java/com/medistock/salesService/service/SalesService.java:95:	ShortVariable:	ShortVariable: Avoid variables with short names like s
+src/test/java/com/medistock/salesService/SalesEntityServiceApplicationTests.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/medistock/salesService/SalesEntityServiceApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/medistock/salesService/SalesEntityServiceApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/medistock/salesService/SalesEntityServiceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/medistock/salesService/SalesEntityServiceApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/medistock/salesService/SalesTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/medistock/salesService/SalesTest.java:1:	TooManyStaticImports:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/medistock/salesService/SalesTest.java:30:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/medistock/salesService/SalesTest.java:30:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:30:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:30:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/test/java/com/medistock/salesService/SalesTest.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:36:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 's1'
+src/test/java/com/medistock/salesService/SalesTest.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:40:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/test/java/com/medistock/salesService/SalesTest.java:40:	ShortVariable:	ShortVariable: Avoid variables with short names like s1
+src/test/java/com/medistock/salesService/SalesTest.java:40:	ShortVariable:	ShortVariable: Avoid variables with short names like s2
+src/test/java/com/medistock/salesService/SalesTest.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'sd1'
+src/test/java/com/medistock/salesService/SalesTest.java:41:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:41:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/test/java/com/medistock/salesService/SalesTest.java:42:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 's3'
+src/test/java/com/medistock/salesService/SalesTest.java:42:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:42:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/test/java/com/medistock/salesService/SalesTest.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like s3
+src/test/java/com/medistock/salesService/SalesTest.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like s4
+src/test/java/com/medistock/salesService/SalesTest.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:62:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:62:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:62:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/medistock/salesService/SalesTest.java:64:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:65:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:66:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:67:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:68:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:69:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:73:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:75:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:79:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:79:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:79:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/medistock/salesService/SalesTest.java:83:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:84:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:85:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:86:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:87:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:91:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:91:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:91:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/medistock/salesService/SalesTest.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'exception' could be declared final
+src/test/java/com/medistock/salesService/SalesTest.java:94:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:98:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:98:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:106:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:106:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:106:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/medistock/salesService/SalesTest.java:108:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'exception' could be declared final
+src/test/java/com/medistock/salesService/SalesTest.java:109:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:113:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:113:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:113:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/medistock/salesService/SalesTest.java:116:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:117:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:118:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:119:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:120:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:121:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:125:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:125:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:125:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/medistock/salesService/SalesTest.java:127:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'exception' could be declared final
+src/test/java/com/medistock/salesService/SalesTest.java:128:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/medistock/salesService/SalesTest.java:132:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/medistock/salesService/SalesTest.java:132:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/medistock/salesService/SalesTest.java:133:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 's' could be declared final
+src/test/java/com/medistock/salesService/SalesTest.java:133:	ShortVariable:	ShortVariable: Avoid variables with short names like s
+src/test/java/com/medistock/salesService/SalesTest.java:137:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
